@@ -1,0 +1,10 @@
+{
+  "database": "mongodb",
+  "model": {
+    "car": {
+      "id": "Primary",
+      "name": "String",
+      "wheels": "Int"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "database": "mongodb",
+  "models": [
+    {
+      "modelName": "Fish",
+      "id": "Primary",
+      "name": "String",
+      "eyes": "Int"
+    }
+  ]
+}
